@@ -2,7 +2,7 @@
 - Proyecto de grado en curso Aplicaciones Web
 
 
-## Acerca de la APp
+## Acerca de la App
 Está separado en 2 aplicaciones. El cliente que es el frontend (usando React), y el API (en Node/Express).
 
 ## Ejecutar el API
